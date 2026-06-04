@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Ubuntu",
+    "previewText": "The Ubuntu typeface has been specially created to complement the Ubuntu tone of voice. It has a contemporary style and contains characteristics unique to the Ubuntu brand that convey a precise, reliable and free attitude.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Bold.ttf/?raw=1",
+        "ggsans-Bold": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-BoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Bold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-BoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Bold.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/Deskarpiostin/rain-fonts/raw/main/fonts/Ubuntu/Ubuntu-Monospace.ttf?raw=1"
+    }
+}
